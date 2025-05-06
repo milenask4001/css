@@ -1,0 +1,28 @@
+
+body{
+  background-color: gray;
+  
+}
+
+h1{
+  color: #2c3e50;
+}
+
+p:first-of-type{
+  font-family: Arial;
+
+}
+p:last-of-type{
+  font-family: 'Times New Roman';
+}
+
+button{
+  background-color: #3498db ;
+  border-radius: 5px;
+  color: #1a2734;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #2980b9;
+}
