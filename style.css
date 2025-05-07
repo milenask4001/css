@@ -26,3 +26,26 @@ button{
 button:hover{
   background-color: #2980b9;
 }
+.container{
+  margin-top: 20px;
+  display:flex;
+  gap: 10px;
+  justify-content: flex-end;
+  background-color: bisque;
+  height: 300px;
+  width: 600px;
+}
+.box{
+  height: 50px;
+  width: 50px;
+ 
+}
+.red{
+  background-color: red;
+}
+.yellow{
+  background-color: yellow;
+}
+.blue{
+  background-color: blue;
+}
